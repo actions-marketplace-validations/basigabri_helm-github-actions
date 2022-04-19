@@ -1,12 +1,12 @@
 {
   "name": "status",
-  "version": "1.7.1",
+  "version": "1.9.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/glopezep/helm",
+  "homepage": "https://github.com/basigabri/helm-github-actions",
   "author": {
-    "name": "glopezep",
-    "url": "https://github.com/glopezep"
+    "name": "basigabri",
+    "url": "https://github.com/basigabri"
   },
   "dependencies": {
     "@actions/core": "^1.2.6",
